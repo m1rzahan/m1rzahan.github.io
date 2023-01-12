@@ -146,6 +146,11 @@ input, select, textarea {
 	body {
 		color: #212931;
 	}
+	#view-count {
+	  font-size: 36px;
+	  font-weight: bold;
+	  color: #333;
+	}
 
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
